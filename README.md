@@ -1,11 +1,19 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+DVITTAL+BOTZ;I+Am+Nothing;Currently+Learning+Nothing;Thank+You!)
+
+
+
+
+
+
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DVITTALBOTZ&label=Visitors&color=FF0000&style=for-the-badge)](https://github.com/DVITTALBOTZ)
 
 
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+Am+INDIAN+🇮🇳!&center=true&size=30&color=FF9933,FFFFFF,138808,1E90FF,FF0000&vCenter=true)
 
-
-[![Profile Views](https://komarev.com/ghpvc/?username=DVITTALBOTZ&label=Visitors&color=FF0000&style=for-the-badge)](https://github.com/DVITTALBOTZ)
 
 
 
