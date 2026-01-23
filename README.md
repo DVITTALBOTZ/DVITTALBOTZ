@@ -32,6 +32,13 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+### Profile Views 
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DVITTALBOTZ&color=yellow" alt="watching_count" />
+</p>
+
+
 ### ✅ Join Telegram Bots Update 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTALBOTZ)
 
