@@ -1,4 +1,13 @@
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+Am+INDIAN+🇮🇳!&center=true&size=30&color=FF9933,FFFFFF,138808,1E90FF,FF0000&vCenter=true)
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DVITTALBOTZ&label=Visitors&color=FF0000&style=for-the-badge)](https://github.com/DVITTALBOTZ)
+
+
+
+
 
 
 
@@ -15,6 +24,8 @@
 
 ### ✅ Join Telegram Bots Update 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTALBOTZ)
+
+
 
 
 
