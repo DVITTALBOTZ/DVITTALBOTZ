@@ -13,3 +13,13 @@ i am Indian 🇮🇳
 [![](https://visitcount.itsvg.in/api?id=DVITTALBOTZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+### 📞 Contact Me
+
+<p>
+  <a href="https://t.me/DVITTALBOTZ">
+    <img src="https://img.icons8.com/color/96/telegram-app.png" width="60" height="60" alt="Telegram">
+  </a>
+</p>
