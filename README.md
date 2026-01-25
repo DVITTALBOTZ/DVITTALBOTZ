@@ -56,3 +56,10 @@
     <img src="https://img.icons8.com/color/96/telegram-app.png" width="60" height="60" alt="Telegram">
   </a>
 </p>
+
+
+
+  <!-- Visitor Count Animation -->
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
+</div>
