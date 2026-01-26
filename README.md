@@ -1,3 +1,10 @@
+<div align="center">
+  
+<!-- Custom Cybersecurity Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DVITTAL%20BOTZ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Specialist%20|%20Ethical%20Hacker%20|%20Security%20Researcher&descAlignY=51&descAlign=50"/>
+
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+DVITTAL+BOTZ;I+Am+Nothing;Currently+Learning+Nothing;Thank+You!)
 
 
