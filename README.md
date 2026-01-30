@@ -45,10 +45,12 @@
   <img src="https://komarev.com/ghpvc/?username=DVITTALBOTZ&color=yellow" alt="watching_count" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✅ Join Telegram Bots Update 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DVITTALBOTZ)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h2><b>📈 CONTRIBUTION GRAPH</b></h2>
