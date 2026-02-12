@@ -24,9 +24,10 @@
 
 
 
-
-
-
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</p>
+<h1 align="center">
 
 
 # 📊 GitHub Stats:
